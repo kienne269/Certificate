@@ -8,7 +8,7 @@
 <li> Expiration Date: This certification does not expire
 <li> Credential URL: https://fullstack.edu.vn/cert/5sjma
 	
-	 JavaScript Basic Certificate
+t/"JavaScript Basic Certificate"
 
 <li> Name: JavaScript Basic Certificate
 <li> Issuing Organization: F8
